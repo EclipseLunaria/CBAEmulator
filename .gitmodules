@@ -1,0 +1,6 @@
+[submodule "lib/arm_core"]
+	path = lib/arm_core
+	url = https://github.com/EclipseLunaria/GBArm-Core.git
+[submodule "lib/disasm"]
+	path = lib/disasm
+	url = https://github.com/EclipseLunaria/disasm-lib.git
