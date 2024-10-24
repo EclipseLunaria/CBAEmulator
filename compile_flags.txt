@@ -1,0 +1,6 @@
+-I
+include
+-I
+lib/disasm/include
+-I
+lib/arm_core/include
